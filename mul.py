@@ -9,3 +9,4 @@ result = num1 * num2
 
 # Displaying the result
 print("The multiplication of the two numbers is: ", result)
+print("Create new data for the pull request")
